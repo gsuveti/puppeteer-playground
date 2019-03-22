@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-playground",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "buffer": "^5.2.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "firebase-admin": "^6.4.0",
+    "glob": "^7.1.3",
+    "http-errors": "~1.6.2",
+    "json-concat": "0.0.1",
+    "moment": "^2.23.0",
+    "morgan": "~1.9.0",
+    "node-sass-middleware": "0.11.0",
+    "puppeteer": "^1.11.0"
+  }
+}
